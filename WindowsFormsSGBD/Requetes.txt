@@ -1,0 +1,8 @@
+create database d;
+create table t1;
+alter table t1 add col1 Text Nulle;
+alter table t1 add col2 Text Nulle;
+insert into t1 (col1,col2) values ('v1','v11');
+insert into t1 (col1,col2) values ('v2','v22');
+select col2 from t1;
+update t1 set col1 = 'v0' where col2 = 'er';

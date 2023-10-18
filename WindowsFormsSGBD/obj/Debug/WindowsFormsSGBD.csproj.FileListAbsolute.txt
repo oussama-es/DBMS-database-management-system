@@ -1,0 +1,32 @@
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.exe.config
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.exe
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.pdb
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.Properties.Resources.resources
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.GenerateResource.cache
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.CoreCompileInputs.cache
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.exe
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.pdb
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.Form1.resources
+C:\Users\DCNTD\source\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csprojAssemblyReference.cache
+E:\repos\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.exe.config
+E:\repos\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.exe
+E:\repos\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.pdb
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.AssemblyReference.cache
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.SuggestedBindingRedirects.cache
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.Form1.resources
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.Properties.Resources.resources
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.GenerateResource.cache
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.CoreCompileInputs.cache
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.exe
+E:\repos\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.pdb
+E:\SGBD\amine oussama\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.exe.config
+E:\SGBD\amine oussama\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.exe
+E:\SGBD\amine oussama\WindowsFormsSGBD\bin\Debug\WindowsFormsSGBD.pdb
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.AssemblyReference.cache
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.SuggestedBindingRedirects.cache
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.Form1.resources
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.Properties.Resources.resources
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.GenerateResource.cache
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.csproj.CoreCompileInputs.cache
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.exe
+E:\SGBD\amine oussama\WindowsFormsSGBD\obj\Debug\WindowsFormsSGBD.pdb

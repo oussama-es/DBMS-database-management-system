@@ -1,0 +1,45 @@
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.csproj.AssemblyReference.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.AssemblyInfoInputs.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.AssemblyInfo.cs
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.csproj.CoreCompileInputs.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.exe
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.deps.json
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.runtimeconfig.json
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.pdb
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\refint\BibSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.pdb
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.genruntimeconfig.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\BibSGBD\BibSGBD\obj\Debug\net7.0\ref\BibSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.exe
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.deps.json
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.runtimeconfig.json
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.pdb
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.csproj.AssemblyReference.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.AssemblyInfoInputs.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.AssemblyInfo.cs
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.csproj.CoreCompileInputs.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\refint\BibSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.pdb
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.genruntimeconfig.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\BibSGBD\BibSGBD\obj\Debug\net7.0\ref\BibSGBD.dll
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.exe
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.deps.json
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.runtimeconfig.json
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.dll
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\bin\Debug\net7.0\BibSGBD.pdb
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.csproj.AssemblyReference.cache
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.GeneratedMSBuildEditorConfig.editorconfig
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.AssemblyInfoInputs.cache
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.AssemblyInfo.cs
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.csproj.CoreCompileInputs.cache
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.dll
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\refint\BibSGBD.dll
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.pdb
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\BibSGBD.genruntimeconfig.cache
+E:\SGBD\amine oussama\BibSGBD\BibSGBD\obj\Debug\net7.0\ref\BibSGBD.dll

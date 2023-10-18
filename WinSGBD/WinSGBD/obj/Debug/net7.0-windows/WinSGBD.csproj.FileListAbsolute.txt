@@ -1,0 +1,37 @@
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.exe
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.deps.json
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.runtimeconfig.json
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.pdb
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.csproj.AssemblyReference.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.Form1.resources
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.csproj.GenerateResource.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.AssemblyInfoInputs.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.AssemblyInfo.cs
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.csproj.CoreCompileInputs.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\refint\WinSGBD.dll
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.pdb
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.genruntimeconfig.cache
+D:\work files\3 eme anne\c#\Visual Studio\SGBD\Ismail Bennouna\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\ref\WinSGBD.dll
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.csproj.AssemblyReference.cache
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.Form1.resources
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.csproj.GenerateResource.cache
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.GeneratedMSBuildEditorConfig.editorconfig
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.AssemblyInfoInputs.cache
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.AssemblyInfo.cs
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.csproj.CoreCompileInputs.cache
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.dll
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\refint\WinSGBD.dll
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.pdb
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.exe
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.deps.json
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.runtimeconfig.json
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.dll
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\WinSGBD.pdb
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\BibSGBD.dll
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\bin\Debug\net7.0-windows\BibSGBD.pdb
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.csproj.CopyComplete
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\WinSGBD.genruntimeconfig.cache
+E:\SGBD\amine oussama\WinSGBD\WinSGBD\obj\Debug\net7.0-windows\ref\WinSGBD.dll
